@@ -1,0 +1,125 @@
+Example Usage
+{
+  "name": "John Doe",
+  "contact_information": {
+    "email": "john.doe@example.com",
+    "phone": "123-456-7890",
+    "address": "1234 Main St, Anytown, USA 12345"
+  },
+  "summary": "Experienced software developer with a background in developing scalable web applications and working in agile environments.",
+  "experience": [
+    {
+      "job_title": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "location": "San Francisco, CA",
+      "dates": "June 2018 - Present",
+      "responsibilities": [
+        "Led a team of 5 developers to build a scalable e-commerce platform.",
+        "Implemented microservices architecture to improve system efficiency.",
+        "Mentored junior developers and conducted code reviews."
+      ]
+    },
+    {
+      "job_title": "Software Engineer",
+      "company": "Web Solutions",
+      "location": "New York, NY",
+      "dates": "January 2015 - May 2018",
+      "responsibilities": [
+        "Developed and maintained web applications using JavaScript and Python.",
+        "Collaborated with cross-functional teams to define and implement new features.",
+        "Performed regular system updates and bug fixes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "field_of_study": "Computer Science",
+      "institution": "State University",
+      "location": "Anytown, USA",
+      "dates": "September 2010 - May 2014"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "Python",
+    "React",
+    "Node.js",
+    "Docker"
+  ],
+  "certifications": [
+    {
+      "name": "Certified Kubernetes Administrator",
+      "issuing_organization": "Linux Foundation",
+      "date": "March 2020"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-commerce Platform",
+      "description": "Developed a scalable e-commerce platform with microservices architecture.",
+      "technologies": [
+        "Node.js",
+        "React",
+        "Docker",
+        "Kubernetes"
+      ]
+    }
+  ]
+}
+
+Here is my resume:
+
+John Doe  
+1234 Main St, Anytown, USA 12345  
+john.doe@example.com | 123-456-7890
+
+---
+
+**Summary**  
+Experienced software developer with a background in developing scalable web applications and working in agile environments.
+
+---
+
+**Experience**  
+
+**Senior Software Engineer**  
+*Tech Corp, San Francisco, CA*  
+June 2018 - Present  
+- Led a team of 5 developers to build a scalable e-commerce platform.
+- Implemented microservices architecture to improve system efficiency.
+- Mentored junior developers and conducted code reviews.
+
+**Software Engineer**  
+*Web Solutions, New York, NY*  
+January 2015 - May 2018  
+- Developed and maintained web applications using JavaScript and Python.
+- Collaborated with cross-functional teams to define and implement new features.
+- Performed regular system updates and bug fixes.
+
+---
+
+**Education**  
+
+**Bachelor of Science in Computer Science**  
+State University, Anytown, USA  
+September 2010 - May 2014
+
+---
+
+**Skills**  
+JavaScript, Python, React, Node.js, Docker
+
+---
+
+**Certifications**  
+Certified Kubernetes Administrator, Linux Foundation, March 2020
+
+---
+
+**Projects**  
+
+**E-commerce Platform**  
+Developed a scalable e-commerce platform with microservices architecture.  
+Technologies: Node.js, React, Docker, Kubernetes
+
