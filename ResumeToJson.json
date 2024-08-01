@@ -1,0 +1,58 @@
+{
+  "name": "Your Name",
+  "contact_information": {
+    "email": "your.email@example.com",
+    "phone": "123-456-7890",
+    "address": "1234 Main St, City, State, ZIP"
+  },
+  "summary": "A brief summary of your professional background.",
+  "experience": [
+    {
+      "job_title": "Job Title",
+      "company": "Company Name",
+      "location": "City, State",
+      "dates": "Start Date - End Date",
+      "responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2",
+        "Responsibility 3"
+      ]
+    }
+    // Add more jobs as needed
+  ],
+  "education": [
+    {
+      "degree": "Degree",
+      "field_of_study": "Field of Study",
+      "institution": "Institution Name",
+      "location": "City, State",
+      "dates": "Start Date - End Date"
+    }
+    // Add more educational experiences as needed
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2",
+    "Skill 3"
+    // Add more skills as needed
+  ],
+  "certifications": [
+    {
+      "name": "Certification Name",
+      "issuing_organization": "Issuing Organization",
+      "date": "Issue Date"
+    }
+    // Add more certifications as needed
+  ],
+  "projects": [
+    {
+      "name": "Project Name",
+      "description": "Brief description of the project",
+      "technologies": [
+        "Technology 1",
+        "Technology 2"
+      ]
+    }
+    // Add more projects as needed
+  ]
+}
